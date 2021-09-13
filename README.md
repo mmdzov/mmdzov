@@ -1,5 +1,5 @@
-_I am Mohammad ali, but you can call me **Mamad** 😄_
-
+<h1 align="center">You can call me <b><i>Mamad<i/></b> 🤙</h1>
+  
 a web developer who is eager to implement new ideas 🧐
 
 ### ***I believe that my knowledge is not limited to one tool so I am breaking my own limitations every day***
