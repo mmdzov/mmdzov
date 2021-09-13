@@ -1,16 +1,15 @@
-### Hi there 👋
+_I am Mohammad ali, but you can call me **Mamad** 😄_
 
-<!--
-**mmdzov/mmdzov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+a web developer who is eager to implement new ideas 🧐
 
-Here are some ideas to get you started:
+### ***I believe that my knowledge is not limited to one tool so I am breaking my own limitations every day***
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
++ 🐥 I’m learning javascript more deeply I already have enough mastery of React.js and Front-end
+
++ 🔭 I’m currently working on new ideas
+
++ 🌱 I’m currently learning typescript & Node.js
+
++ 👯 I’m looking to collaborate on new ideas
+
++ 📫 How to reach me: mzov939@gmail.com | [@mmdzov](https://t.me/mmdzov)
