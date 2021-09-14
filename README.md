@@ -24,5 +24,5 @@
   <details>
 <summary>Wakatime</summary>
 <br>
-<img src="https://wakatime.com/share/@mmdzov/5edb80f8-7179-4388-a0d3-6eefe85eee0c.svg" height="400">
+<img src="https://wakatime.com/share/@mmdzov/3a687565-ddb7-4d42-b70f-3cc1f857e346.svg" height="400">
 </details>
