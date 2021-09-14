@@ -1,6 +1,6 @@
-<h1 align="center">You can call me <b><i>Mamad<i/></b> 🤙</h1>
+<h1 align="center">You can call me <b><i>Mamad<i/></b></h1>
   
-<p align="center"><img src="https://i.imgur.com/JS0vFS0.gif"></p>
+<p align="center"><img src="https://imgur.com/RSZQUCL.gif"></p>
 a web developer who is eager to implement new ideas 🧐
   
 ### ***I believe that my knowledge is not limited to one tool so I am breaking my own limitations every day***
