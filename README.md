@@ -15,6 +15,8 @@
 
 + 📫 How to reach me: mzov939@gmail.com | [@mmdzov](https://t.me/mmdzov)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
   
 **<h2>Most languages ​​I used and my statistics</h2>** 
   
