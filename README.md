@@ -14,10 +14,15 @@
 + 👯 I’m looking to collaborate on **new ideas**
 
 + 📫 How to reach me: mzov939@gmail.com | [@mmdzov](https://t.me/mmdzov)
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+  
+<!-- <figure><embed src="https://wakatime.com/share/@mmdzov/5edb80f8-7179-4388-a0d3-6eefe85eee0c.svg"></embed></figure> -->
   
 **<h2>Most languages ​​I used and my statistics</h2>** 
   
-<a href="https://github.com/mmdzov?tab=repositories"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmdzov&theme=github_dark&hide_border=true&border_radius=25&layout=compact"> <img src="https://github-readme-stats.vercel.app/api?username=mmdzov&show_icons=true&theme=github_dark&hide_border=true&border_radius=25"></a>
+<a href="https://github.com/mmdzov?tab=repositories"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmdzov&theme=github_dark&hide_border=true&border_radius=25&layout=compact"> <img src="https://github-readme-stats.vercel.app/api?username=mmdzov&show_icons=true&theme=github_dark&hide_border=true&border_radius=25"> </a>
+
+  <details>
+<summary>Wakatime</summary>
+<br>
+<img src="https://wakatime.com/share/@mmdzov/5edb80f8-7179-4388-a0d3-6eefe85eee0c.svg" height="400">
+</details>
