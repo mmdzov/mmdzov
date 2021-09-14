@@ -1,0 +1,20 @@
+{
+  "name": "mmdzov",
+  "version": "1.0.0",
+  "description": "<a href=\"https://github.com/mmdzov?tab=repositories\"><img align=\"right\" src=\"https://enaq423aeserwm8.m.pipedream.net\"></a>\r <h1 align=\"center\">You can call me <b><i>Mamad<i/></b></h1>",
+  "main": "index.js",
+  "scripts": {
+    "build": "git add . & git commit -m Update & git push -u origin main"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmdzov/mmdzov.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmdzov/mmdzov/issues"
+  },
+  "homepage": "https://github.com/mmdzov/mmdzov#readme"
+}
