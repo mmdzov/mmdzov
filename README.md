@@ -18,5 +18,7 @@ a web developer who is eager to implement new ideas 🧐
   
 <p align="center"><img src="https://imgur.com/RSZQUCL.gif"></p>
 <a href="https://github.com/mmdzov?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=mmdzov&column=8&margin-w=15&margin-h=15"></a>
+<p align="center"><img src="https://imgur.com/RSZQUCL.gif"></p>
 
   
+<img src="https://github.com/mmdzov/mmdzov/blob/main/images/stat.svg" alt="Wakatime"/>
