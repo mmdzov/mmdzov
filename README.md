@@ -21,8 +21,8 @@
   
 <a href="https://github.com/mmdzov?tab=repositories"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmdzov&theme=github_dark&hide_border=true&border_radius=25&layout=compact"> <img src="https://github-readme-stats.vercel.app/api?username=mmdzov&show_icons=true&theme=github_dark&hide_border=true&border_radius=25"> </a>
 
-  <details>
+<!--   <details>
 <summary>Wakatime</summary>
 <br>
 <img src="https://wakatime.com/share/@mmdzov/3a687565-ddb7-4d42-b70f-3cc1f857e346.svg" height="400">
-</details>
+</details> -->
