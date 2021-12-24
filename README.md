@@ -5,15 +5,7 @@
   
 **<p align="center">a web developer who is eager to implement new ideas 🧐</p>**
 
-+ 🐥 I’m learning javascript more deeply
-
-+ 🔭 I’m currently working on **new ideas**
-
-+ 🌱 I’m currently learning **typescript & Node.js**
-
-+ 👯 I’m looking to collaborate on **new ideas**
-
-+ 📫 How to reach me: mzov939@gmail.com | [@mmdzov](https://t.me/mmdzov)
++ mzov939@gmail.com | [@mmdzov](https://t.me/mmdzov)
   
 <!-- <figure><embed src="https://wakatime.com/share/@mmdzov/5edb80f8-7179-4388-a0d3-6eefe85eee0c.svg"></embed></figure> -->
   
