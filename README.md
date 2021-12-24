@@ -1,5 +1,5 @@
 <a href="https://github.com/mmdzov?tab=repositories"><img align="right" src="https://enaq423aeserwm8.m.pipedream.net"></a>
-<h1 align="center">Call Me <b><i>Mamad<i/></b></h1>
+<h1 align="center"><b><i>mmdzov<i/></b></h1>
 
 <p align="center"><img src="https://imgur.com/RSZQUCL.gif"></p>
   
