@@ -20,4 +20,4 @@
 </details> -->
 <br>
 
-<script src="https://gist.github.com/mmdzov/be9c5139dc23dbbf6adf70e2d0ba9aab.js"></script>
+
