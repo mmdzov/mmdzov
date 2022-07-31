@@ -18,3 +18,6 @@
 <br>
 <img src="https://wakatime.com/share/@mmdzov/3a687565-ddb7-4d42-b70f-3cc1f857e346.svg" height="400">
 </details> -->
+<br>
+
+<script src="https://gist.github.com/mmdzov/be9c5139dc23dbbf6adf70e2d0ba9aab.js"></script>
