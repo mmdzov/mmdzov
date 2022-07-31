@@ -4,7 +4,7 @@
 <p align="center"><img src="https://imgur.com/RSZQUCL.gif"></p>
   
 **<p align="center">a web developer who is eager to implement new ideas 🧐</p>**
-
+  
 + mzov939@gmail.com | [@mmdzov](https://t.me/mmdzov)
   
 <!-- <figure><embed src="https://wakatime.com/share/@mmdzov/5edb80f8-7179-4388-a0d3-6eefe85eee0c.svg"></embed></figure> -->
@@ -18,6 +18,3 @@
 <br>
 <img src="https://wakatime.com/share/@mmdzov/3a687565-ddb7-4d42-b70f-3cc1f857e346.svg" height="400">
 </details> -->
-<br>
-
-
